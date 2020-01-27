@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Business', // Site title.
+  siteTitle: 'QUL Gatsby 2020', // Site title.
   siteTitleAlt: 'Business', // Alternative site title for SEO.
   siteLogo: '/icons/icon-512x512.png', // Logo used for SEO and manifest.
   siteUrl: 'https://gatsby-starter-business.netlify.com', // Domain of your website without pathPrefix.
@@ -9,11 +9,11 @@ module.exports = {
   siteFBAppID: '', // FB Application ID for using app insights
   googleTagManagerID: '', // GTM tracking ID.
   disqusShortname: 'gatsby-business-starter', // Disqus shortname.
-  userName: 'Vaibhav Sharma',
-  userTwitter: 'vaibhaved',
-  userLocation: 'Delhi NCR, India',
+  userName: 'Paul Clifford',
+  userTwitter: 'cliffordlib',
+  userLocation: 'Kingston, ON, Canada',
   userDescription: '',
-  copyright: 'Copyright Â© Gatsby Starter Business 2018-2019. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
-  themeColor: '#00d1b2', // Used for setting manifest and progress theme colors.
+  copyright: 'Copyright © Queen\'s University Library', // Copyright string for the footer of the website and RSS feed.
+  themeColor: '#002f5e', // Used for setting manifest and progress theme colors.
   backgroundColor: '#ffffff', // Used for setting manifest background color.
 }

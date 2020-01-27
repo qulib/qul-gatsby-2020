@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-business",
-  "version": "2.1.2",
+  "name": "qul-gatsby-2020",
+  "version": "1.0.0",
   "description": "Gatsby Business Website Starter",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,8 @@
     "lint:fix": "eslint --ext js,jsx --ignore-path .gitignore . --fix",
     "clean": "rm -rf public/ .cache/"
   },
-  "repository": "https://github.com/v4iv/gatsby-starter-business",
-  "author": "Vaibhav Sharma <vaibhavsharmaatwork@gmail.com>",
+  "repository": "https://github.com/qulib/qul-gatsby-2020",
+  "author": "Paul Clifford <clifford@queensu.ca>",
   "license": "MIT",
   "private": false,
   "remarkConfig": {
@@ -52,7 +52,6 @@
     "prop-types": "^15.7.2",
     "query-string": "^6.8.3",
     "react": "^16.9.0",
-    "react-disqus-comments": "^1.4.0",
     "react-dom": "^16.9.0",
     "react-helmet": "^5.2.1",
     "react-share": "^3.0.1",
